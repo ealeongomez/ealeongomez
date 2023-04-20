@@ -1,6 +1,12 @@
 ### Hey there! I'm Eder 👋
 
 
+## 🛠 Technology Experience
+
+
+## 👨‍🎓 Currently Learning
+
+
 <!--
 **ealeongomez/ealeongomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
