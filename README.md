@@ -7,12 +7,16 @@ models for Natural Language Processing (NPL), Image Processing, and Video Proces
 Artificial Intelligence models in embedded systems. I have advanced mathematical skills that enable me to design all
 these applications, which are supported by my ongoing postgraduate studies.
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/eder_arley?style=social)](https://twitter.com/eder_arley) ![GitHub followers](https://img.shields.io/github/followers/ealeongomez?style=social)
 
-## 🛠 Technology Experience
+## ⚙️ &nbsp;GitHub Analytics
 
-
-## 👨‍🎓 Currently Learning
-
+<p align="center">
+<a href="https://github.com/ealeongomez">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ealeongomez&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ealeongomez&hide=jupyter%20notebook&layout=compact&langs_count=8&theme=default"/>
+</a>
+</p>
 
 <!--
 **ealeongomez/ealeongomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
