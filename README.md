@@ -14,8 +14,6 @@ I am an electrical engineer with a master degree in engineering, backed by a str
 
 ![Historia en Github](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ealeongomez&theme=nightowl&hide_border=false)
 
-![Lenguajes top](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ealeongomez&theme=nightowl)
-
 ## 🛠 &nbsp; Technology Experience
 
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
